@@ -10,6 +10,9 @@ public class EasyCodeDemoApplication {
         SpringApplication.run(EasyCodeDemoApplication.class, args);
         System.out.println("Test");
         System.out.println("ABC");
+
+        // 这是主分支的代码
+        System.out.println("这是我主体框架写的代码");
     }
 
 }
