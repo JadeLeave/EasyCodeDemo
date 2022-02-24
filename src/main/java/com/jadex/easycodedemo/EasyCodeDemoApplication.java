@@ -14,8 +14,11 @@ public class EasyCodeDemoApplication {
         // 这是主分支的代码
         System.out.println("这是我主体框架写的代码");
 
-        // 开发环境写的代码
+        // 开发环境：写的代码
         System.out.println("这是一段业务代码");
+
+        // 开发环境：我觉得这里应该是1+1等于2
+        System.out.println(1+1);
     }
 
 }
