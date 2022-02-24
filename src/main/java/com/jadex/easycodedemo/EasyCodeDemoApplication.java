@@ -19,6 +19,9 @@ public class EasyCodeDemoApplication {
 
         // 开发环境：我觉得这里应该是1+1等于2
         System.out.println(1+1);
+
+        // 开发环境：我觉得这里应该是2+2等于4
+        System.out.println(2+2);
     }
 
 }
