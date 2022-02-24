@@ -10,6 +10,9 @@ public class EasyCodeDemoApplication {
         SpringApplication.run(EasyCodeDemoApplication.class, args);
         System.out.println("Test");
         System.out.println("ABC");
+
+        // 开发环境写的代码
+        System.out.println("这是一段业务代码");
     }
 
 }
