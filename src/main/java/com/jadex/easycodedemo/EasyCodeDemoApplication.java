@@ -17,10 +17,16 @@ public class EasyCodeDemoApplication {
         // 主分支：我新写了个log日志
         System.out.println("log...");
 
-        // 开发环境写的代码
+        // 开发环境：写的代码
         System.out.println("这是一段业务代码");
 
 
+
+        // 开发环境：我觉得这里应该是1+1等于2
+        System.out.println(1+1);
+
+        // 开发环境：我觉得这里应该是2+2等于4
+        System.out.println(2+2);
     }
 
 }
