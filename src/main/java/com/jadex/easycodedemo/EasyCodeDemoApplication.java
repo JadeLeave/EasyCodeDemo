@@ -28,6 +28,9 @@ public class EasyCodeDemoApplication {
         // 开发环境：我觉得这里应该是2+2等于4
         System.out.println(2+2);
 
+        // 开发环境：我觉得这里应该是3+3等于6
+        System.out.println(3+3);
+
 
         // 测试push代码
         System.out.println("push...");
